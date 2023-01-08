@@ -661,3 +661,4 @@ Added new feature for better user experience - build 201
 Added input validation
 Added input validation - build 656
 Updated styling and themes - 580
+Fixed memory management issue - build 911
