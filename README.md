@@ -665,3 +665,4 @@ Fixed memory management issue - build 911
 Updated styling and themes - update 33
 Added new feature for better user experience - update 23
 Fixed typo in documentation - build 235
+Added proper error handling - build 721
