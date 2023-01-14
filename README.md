@@ -965,3 +965,4 @@ Added input validation
 Fixed typo in documentation - 987
 Updated dependencies to latest versions - v2.8.2
 Refactored code for better maintainability - build 639
+Fixed code formatting issues - update 30
