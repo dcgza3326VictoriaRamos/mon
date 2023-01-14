@@ -963,3 +963,4 @@ Added proper error handling - v5.7.1
 Updated styling and themes - 62
 Added input validation
 Fixed typo in documentation - 987
+Updated dependencies to latest versions - v2.8.2
