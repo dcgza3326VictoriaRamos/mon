@@ -1239,3 +1239,4 @@ Updated dependencies to latest versions - 8
 Updated configuration settings - 589
 Added input validation
 Updated project documentation - v3.7.8
+Fixed typo in documentation
