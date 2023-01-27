@@ -2163,3 +2163,4 @@ Added detailed comments for clarity - v8.0.7
 Updated version number
 Refactored code for better maintainability - build 519
 Updated dependencies to latest versions - 488
+Fixed typo in documentation - 947
