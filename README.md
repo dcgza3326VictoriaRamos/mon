@@ -71,3 +71,4 @@ Added new feature for better user experience - update 15
 Fixed code formatting issues - build 726
 Updated styling and themes - update 10
 Fixed critical bug in main module - v9.9.4
+Updated README with new instructions
