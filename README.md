@@ -69,3 +69,4 @@ Added new feature for better user experience
 Updated version number
 Added new feature for better user experience - update 15
 Fixed code formatting issues - build 726
+Updated styling and themes - update 10
