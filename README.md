@@ -74,3 +74,4 @@ Fixed critical bug in main module - v9.9.4
 Updated README with new instructions
 Updated styling and themes
 Updated version number - build 627
+Improved user interface design - 402
