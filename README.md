@@ -589,3 +589,4 @@ Improved user interface design - 327
 Fixed code formatting issues
 Updated version number
 Optimized algorithm for better efficiency
+Updated README with new instructions - 74
