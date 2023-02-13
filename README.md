@@ -588,3 +588,4 @@ Updated README with new instructions - update 5
 Improved user interface design - 327
 Fixed code formatting issues
 Updated version number
+Optimized algorithm for better efficiency
