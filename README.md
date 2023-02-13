@@ -593,3 +593,4 @@ Updated README with new instructions - 74
 Updated project documentation - 954
 Updated version number - v2.9.3
 Fixed critical bug in main module - 742
+Refactored code for better maintainability
