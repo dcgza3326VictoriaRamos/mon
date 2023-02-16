@@ -2709,3 +2709,4 @@ Fixed code formatting issues
 Updated dependencies to latest versions - v5.3.8
 Fixed code formatting issues - v6.3.5
 Fixed memory management issue - 381
+Improved user interface design - v5.2.3
