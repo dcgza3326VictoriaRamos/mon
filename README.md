@@ -2715,3 +2715,4 @@ Improved performance optimization - build 201
 Improved performance optimization - v1.4.8
 Fixed typo in documentation
 Improved performance optimization - build 806
+Fixed memory management issue - update 39
