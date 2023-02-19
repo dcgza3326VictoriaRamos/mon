@@ -3584,3 +3584,4 @@ Added detailed comments for clarity
 Added new feature for better user experience - v2.0.5
 Fixed memory management issue - update 37
 Code cleanup and formatting - update 39
+Fixed memory management issue - update 10
