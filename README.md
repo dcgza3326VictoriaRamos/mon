@@ -2859,3 +2859,4 @@ Added input validation - v8.8.8
 Fixed memory management issue
 Refactored code for better maintainability - update 30
 Added detailed comments for clarity - v4.4.1
+Fixed typo in documentation - v1.0.8
