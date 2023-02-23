@@ -3049,3 +3049,4 @@ Fixed typo in documentation
 Updated dependencies to latest versions
 Fixed code formatting issues
 Fixed typo in documentation
+Improved user interface design - v6.2.0
