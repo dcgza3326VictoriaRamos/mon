@@ -300,3 +300,4 @@ Fixed memory management issue - v5.7.6
 Added detailed comments for clarity - build 814
 Code cleanup and formatting
 Fixed memory management issue
+Fixed memory management issue - 485
