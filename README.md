@@ -298,3 +298,4 @@ Updated version number - build 368
 Added detailed comments for clarity - update 7
 Fixed memory management issue - v5.7.6
 Added detailed comments for clarity - build 814
+Code cleanup and formatting
