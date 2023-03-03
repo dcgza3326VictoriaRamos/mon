@@ -2505,3 +2505,4 @@ Fixed typo in documentation - v2.0.1
 Added new feature for better user experience - 330
 Refactored code for better maintainability - build 502
 Added new feature for better user experience - v4.1.6
+Updated styling and themes - build 374
