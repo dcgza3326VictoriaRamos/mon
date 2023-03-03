@@ -2504,3 +2504,4 @@ Optimized algorithm for better efficiency - 174
 Fixed typo in documentation - v2.0.1
 Added new feature for better user experience - 330
 Refactored code for better maintainability - build 502
+Added new feature for better user experience - v4.1.6
