@@ -3302,3 +3302,4 @@ Updated version number
 Fixed code formatting issues - v6.4.6
 Fixed typo in documentation - update 36
 Updated styling and themes
+Added comprehensive test coverage - v7.8.6
