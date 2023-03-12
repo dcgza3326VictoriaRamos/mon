@@ -3304,3 +3304,4 @@ Fixed typo in documentation - update 36
 Updated styling and themes
 Added comprehensive test coverage - v7.8.6
 Added comprehensive test coverage - v9.0.6
+Updated README with new instructions - v7.6.8
