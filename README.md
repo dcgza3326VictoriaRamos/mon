@@ -1549,3 +1549,4 @@ Updated dependencies to latest versions
 Updated version number - 20
 Refactored code for better maintainability - 700
 Added proper error handling - v5.7.6
+Fixed memory management issue - v4.6.0
