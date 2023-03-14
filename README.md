@@ -1552,3 +1552,4 @@ Added proper error handling - v5.7.6
 Fixed memory management issue - v4.6.0
 Fixed memory management issue - 675
 Code cleanup and formatting
+Updated styling and themes - v8.6.7
