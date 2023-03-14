@@ -1553,3 +1553,4 @@ Fixed memory management issue - v4.6.0
 Fixed memory management issue - 675
 Code cleanup and formatting
 Updated styling and themes - v8.6.7
+Fixed memory management issue - v6.5.3
