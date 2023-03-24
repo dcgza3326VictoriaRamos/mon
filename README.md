@@ -3433,3 +3433,4 @@ Optimized algorithm for better efficiency
 Code cleanup and formatting - build 695
 Improved performance optimization - 903
 Fixed code formatting issues - build 310
+Fixed memory management issue - v6.9.8
