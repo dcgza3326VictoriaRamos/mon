@@ -2959,3 +2959,4 @@ Refactored code for better maintainability - v7.9.8
 Updated styling and themes - 494
 Refactored code for better maintainability - v3.9.1
 Updated project documentation - v1.9.9
+Added detailed comments for clarity - 841
