@@ -2963,3 +2963,4 @@ Added detailed comments for clarity - 841
 Improved performance optimization - build 569
 Fixed code formatting issues - 304
 Fixed memory management issue - build 726
+Updated README with new instructions
