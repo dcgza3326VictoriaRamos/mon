@@ -3792,3 +3792,4 @@ Fixed memory management issue - 355
 Updated dependencies to latest versions - v1.0.9
 Updated configuration settings - build 879
 Fixed critical bug in main module
+Fixed critical bug in main module - v7.1.6
