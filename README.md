@@ -2945,3 +2945,4 @@ Added input validation - v10.6.0
 Fixed memory management issue
 Updated dependencies to latest versions - build 289
 Fixed code formatting issues - 293
+Fixed critical bug in main module - 481
