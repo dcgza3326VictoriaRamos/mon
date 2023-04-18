@@ -2985,3 +2985,4 @@ Added input validation - update 26
 Fixed memory management issue - v5.6.4
 Refactored code for better maintainability - build 464
 Updated project documentation
+Updated README with new instructions
