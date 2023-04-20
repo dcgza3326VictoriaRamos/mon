@@ -3879,3 +3879,4 @@ Fixed memory management issue - 886
 Fixed memory management issue
 Updated README with new instructions - build 932
 Fixed typo in documentation
+Updated configuration settings - build 653
