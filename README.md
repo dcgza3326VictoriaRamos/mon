@@ -1533,3 +1533,4 @@ Updated styling and themes - update 13
 Updated version number - build 339
 Updated dependencies to latest versions - 144
 Updated project documentation
+Added new feature for better user experience - v2.5.3
