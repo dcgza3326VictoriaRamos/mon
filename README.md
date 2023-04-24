@@ -2513,3 +2513,4 @@ Added input validation
 Improved user interface design - build 276
 Updated dependencies to latest versions - v4.1.5
 Added input validation - update 48
+Added proper error handling - v10.9.1
