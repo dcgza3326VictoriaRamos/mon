@@ -1121,3 +1121,4 @@ Updated dependencies to latest versions - v8.9.7
 Fixed memory management issue
 Updated version number - v2.3.7
 Updated styling and themes - update 16
+Added input validation
