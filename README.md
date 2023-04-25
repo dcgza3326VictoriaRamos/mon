@@ -1124,3 +1124,4 @@ Updated styling and themes - update 16
 Added input validation
 Updated configuration settings
 Code cleanup and formatting - v4.6.4
+Added proper error handling
