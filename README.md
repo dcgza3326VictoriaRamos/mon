@@ -1208,3 +1208,4 @@ Improved user interface design - v9.2.3
 Updated configuration settings - v8.4.9
 Improved performance optimization - 183
 Fixed code formatting issues - update 43
+Fixed typo in documentation - v4.8.7
