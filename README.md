@@ -1118,3 +1118,4 @@ Added detailed comments for clarity - v5.3.5
 Updated styling and themes - build 301
 Fixed typo in documentation - update 23
 Updated dependencies to latest versions - v8.9.7
+Fixed memory management issue
