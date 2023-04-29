@@ -1949,3 +1949,4 @@ Updated dependencies to latest versions - build 323
 Updated README with new instructions - 469
 Code cleanup and formatting - 776
 Updated styling and themes
+Improved user interface design - v7.3.0
