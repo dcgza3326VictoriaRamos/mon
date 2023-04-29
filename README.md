@@ -1954,3 +1954,4 @@ Fixed code formatting issues - v10.1.0
 Updated styling and themes - 36
 Updated version number
 Refactored code for better maintainability - update 8
+Added detailed comments for clarity - update 50
