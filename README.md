@@ -1956,3 +1956,4 @@ Updated version number
 Refactored code for better maintainability - update 8
 Added detailed comments for clarity - update 50
 Updated README with new instructions - v6.4.4
+Updated configuration settings - v10.0.3
