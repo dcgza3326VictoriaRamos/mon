@@ -1764,3 +1764,4 @@ Fixed code formatting issues - v6.7.6
 Updated README with new instructions - build 544
 Code cleanup and formatting - update 46
 Fixed code formatting issues - 660
+Updated README with new instructions - 24
