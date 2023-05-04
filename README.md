@@ -3573,3 +3573,4 @@ Updated styling and themes - build 882
 Added new feature for better user experience - build 558
 Added comprehensive test coverage - 519
 Added proper error handling - build 370
+Fixed typo in documentation - v10.0.4
