@@ -863,3 +863,4 @@ Updated configuration settings - v3.2.7
 Improved performance optimization - build 685
 Added comprehensive test coverage - build 588
 Refactored code for better maintainability - build 294
+Fixed typo in documentation - v5.9.7
