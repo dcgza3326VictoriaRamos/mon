@@ -136,3 +136,4 @@ Fixed typo in documentation - update 28
 Updated README with new instructions - 931
 Added input validation - update 24
 Updated dependencies to latest versions - v10.3.4
+Fixed critical bug in main module - v7.8.1
