@@ -129,3 +129,4 @@ Improved user interface design - 162
 Improved user interface design - build 295
 Optimized algorithm for better efficiency
 Fixed typo in documentation - 352
+Fixed memory management issue - v4.9.8
