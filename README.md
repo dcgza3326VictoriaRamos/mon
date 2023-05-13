@@ -1768,3 +1768,4 @@ Updated README with new instructions - 24
 Added input validation
 Improved performance optimization
 Updated styling and themes
+Updated styling and themes - v2.5.4
