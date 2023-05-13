@@ -131,3 +131,4 @@ Optimized algorithm for better efficiency
 Fixed typo in documentation - 352
 Fixed memory management issue - v4.9.8
 Added detailed comments for clarity - update 49
+Code cleanup and formatting - build 962
