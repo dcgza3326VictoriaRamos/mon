@@ -1016,3 +1016,4 @@ Fixed memory management issue - 201
 Fixed typo in documentation - v6.6.7
 Code cleanup and formatting
 Fixed memory management issue
+Added detailed comments for clarity - 803
