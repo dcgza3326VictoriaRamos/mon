@@ -1014,3 +1014,4 @@ Updated README with new instructions - build 559
 Updated README with new instructions - 337
 Fixed memory management issue - 201
 Fixed typo in documentation - v6.6.7
+Code cleanup and formatting
