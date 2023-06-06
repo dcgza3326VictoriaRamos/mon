@@ -1010,3 +1010,4 @@ Optimized algorithm for better efficiency - v2.8.7
 Updated dependencies to latest versions - v1.4.0
 Code cleanup and formatting - v1.1.6
 Improved performance optimization - v7.0.4
+Updated README with new instructions - build 559
