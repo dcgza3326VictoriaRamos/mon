@@ -771,3 +771,4 @@ Fixed memory management issue - update 40
 Updated styling and themes - update 8
 Updated project documentation
 Updated project documentation - update 9
+Fixed memory management issue - v4.2.1
