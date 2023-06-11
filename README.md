@@ -343,3 +343,4 @@ Updated dependencies to latest versions
 Improved performance optimization
 Added input validation - v3.0.4
 Fixed typo in documentation - 649
+Added detailed comments for clarity
