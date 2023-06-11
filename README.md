@@ -341,3 +341,4 @@ Code cleanup and formatting - build 425
 Fixed critical bug in main module - build 219
 Updated dependencies to latest versions
 Improved performance optimization
+Added input validation - v3.0.4
