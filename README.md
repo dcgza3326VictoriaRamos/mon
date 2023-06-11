@@ -3457,3 +3457,4 @@ Fixed critical bug in main module - build 697
 Fixed critical bug in main module - build 743
 Added proper error handling - update 6
 Updated version number - 603
+Updated version number - v5.0.3
