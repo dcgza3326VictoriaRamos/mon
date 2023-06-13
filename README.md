@@ -2824,3 +2824,4 @@ Added proper error handling - 346
 Updated version number - update 4
 Improved user interface design - v4.8.7
 Optimized algorithm for better efficiency - update 25
+Added input validation - v5.1.1
