@@ -3661,3 +3661,4 @@ Updated dependencies to latest versions - build 721
 Added new feature for better user experience - update 1
 Updated project documentation - update 15
 Fixed critical bug in main module - v3.8.5
+Fixed memory management issue - v7.3.4
