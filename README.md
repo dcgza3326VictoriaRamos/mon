@@ -849,3 +849,4 @@ Added new feature for better user experience - v4.5.0
 Updated version number
 Added new feature for better user experience - update 25
 Fixed memory management issue - v1.6.8
+Added new feature for better user experience - update 32
