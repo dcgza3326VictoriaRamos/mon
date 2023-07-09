@@ -1583,3 +1583,4 @@ Fixed typo in documentation - v5.0.9
 Fixed critical bug in main module - update 38
 Fixed critical bug in main module - build 281
 Updated styling and themes - build 861
+Added proper error handling - update 25
