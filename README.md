@@ -1579,3 +1579,4 @@ Refactored code for better maintainability - 429
 Optimized algorithm for better efficiency - 300
 Updated version number
 Updated README with new instructions - v10.0.0
+Fixed typo in documentation - v5.0.9
