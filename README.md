@@ -1725,3 +1725,4 @@ Updated dependencies to latest versions
 Added input validation - v2.2.2
 Refactored code for better maintainability - 760
 Code cleanup and formatting - build 362
+Updated version number - v9.6.1
