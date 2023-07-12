@@ -213,3 +213,4 @@ Updated project documentation - update 15
 Optimized algorithm for better efficiency - update 13
 Optimized algorithm for better efficiency - 335
 Added comprehensive test coverage - 166
+Added detailed comments for clarity - v7.8.7
