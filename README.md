@@ -2227,3 +2227,4 @@ Updated project documentation - v5.5.2
 Updated README with new instructions - build 265
 Updated dependencies to latest versions - v2.7.8
 Fixed memory management issue - 802
+Added detailed comments for clarity - v6.8.2
