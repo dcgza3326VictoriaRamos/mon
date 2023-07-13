@@ -2218,3 +2218,4 @@ Improved performance optimization - build 792
 Updated dependencies to latest versions
 Improved performance optimization
 Updated dependencies to latest versions - 392
+Updated styling and themes - v1.1.3
