@@ -3494,3 +3494,4 @@ Optimized algorithm for better efficiency - v1.8.1
 Code cleanup and formatting
 Fixed code formatting issues - build 940
 Updated configuration settings
+Fixed memory management issue - v6.3.1
