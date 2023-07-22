@@ -3347,3 +3347,4 @@ Added detailed comments for clarity
 Added input validation - v9.2.7
 Added proper error handling - build 791
 Updated version number - update 42
+Updated README with new instructions - update 6
