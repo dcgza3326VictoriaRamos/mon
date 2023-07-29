@@ -2008,3 +2008,4 @@ Code cleanup and formatting - update 47
 Added input validation - v3.9.5
 Updated version number
 Fixed typo in documentation
+Fixed code formatting issues - build 327
