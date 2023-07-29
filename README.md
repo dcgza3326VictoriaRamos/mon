@@ -847,3 +847,4 @@ Fixed typo in documentation - v5.0.9
 Refactored code for better maintainability - v8.1.2
 Added new feature for better user experience - v4.5.0
 Updated version number
+Added new feature for better user experience - update 25
