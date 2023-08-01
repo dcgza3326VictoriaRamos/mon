@@ -80,3 +80,4 @@ Added new feature for better user experience
 Updated version number
 Added proper error handling - v9.6.2
 Improved performance optimization - update 20
+Fixed memory management issue - update 17
