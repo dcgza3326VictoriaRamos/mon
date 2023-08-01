@@ -87,3 +87,4 @@ Code cleanup and formatting - update 5
 Updated styling and themes
 Fixed typo in documentation - 915
 Improved user interface design - build 129
+Added input validation
