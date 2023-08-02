@@ -3391,3 +3391,4 @@ Fixed critical bug in main module
 Added input validation - update 45
 Fixed memory management issue - update 5
 Added comprehensive test coverage - build 788
+Updated README with new instructions - update 18
