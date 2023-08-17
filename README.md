@@ -394,3 +394,4 @@ Added new feature for better user experience - build 746
 Optimized algorithm for better efficiency
 Added proper error handling - 601
 Fixed critical bug in main module - build 532
+Added detailed comments for clarity - v5.0.0
