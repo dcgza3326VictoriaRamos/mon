@@ -1103,3 +1103,4 @@ Refactored code for better maintainability - 112
 Updated version number - 11
 Added proper error handling
 Updated project documentation - v9.1.6
+Fixed memory management issue
