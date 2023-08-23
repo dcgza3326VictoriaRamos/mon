@@ -1106,3 +1106,4 @@ Updated project documentation - v9.1.6
 Fixed memory management issue
 Updated styling and themes - v4.2.1
 Fixed memory management issue - v2.0.0
+Fixed critical bug in main module - build 517
