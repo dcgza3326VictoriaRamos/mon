@@ -791,3 +791,4 @@ Refactored code for better maintainability - build 604
 Added input validation - 456
 Updated dependencies to latest versions - build 432
 Fixed typo in documentation - v9.5.5
+Updated configuration settings - v5.1.9
