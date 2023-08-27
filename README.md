@@ -794,3 +794,4 @@ Fixed typo in documentation - v9.5.5
 Updated configuration settings - v5.1.9
 Added input validation - v6.5.2
 Updated version number - update 9
+Added detailed comments for clarity - v3.8.2
