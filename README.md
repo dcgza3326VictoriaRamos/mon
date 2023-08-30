@@ -1604,3 +1604,4 @@ Updated project documentation - v8.5.9
 Refactored code for better maintainability - build 650
 Updated version number - build 786
 Added new feature for better user experience - 686
+Fixed memory management issue - update 5
