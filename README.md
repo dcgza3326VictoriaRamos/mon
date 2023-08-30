@@ -1606,3 +1606,4 @@ Updated version number - build 786
 Added new feature for better user experience - 686
 Fixed memory management issue - update 5
 Improved user interface design
+Updated README with new instructions - update 23
