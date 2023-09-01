@@ -2686,3 +2686,4 @@ Updated dependencies to latest versions - update 9
 Updated dependencies to latest versions - build 671
 Improved user interface design - build 267
 Added proper error handling - 389
+Fixed memory management issue - v3.2.6
