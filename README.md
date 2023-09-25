@@ -1423,3 +1423,4 @@ Added new feature for better user experience - 752
 Fixed typo in documentation
 Updated version number - v3.4.2
 Fixed critical bug in main module
+Added detailed comments for clarity - v7.1.1
