@@ -2030,3 +2030,4 @@ Updated version number
 Updated styling and themes - build 208
 Fixed typo in documentation
 Fixed memory management issue - update 38
+Updated configuration settings - build 823
