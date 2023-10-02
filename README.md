@@ -2007,3 +2007,4 @@ Updated README with new instructions
 Code cleanup and formatting - update 47
 Added input validation - v3.9.5
 Updated version number
+Fixed typo in documentation
