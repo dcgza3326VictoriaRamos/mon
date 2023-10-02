@@ -2028,3 +2028,4 @@ Improved performance optimization
 Added input validation
 Updated version number
 Updated styling and themes - build 208
+Fixed typo in documentation
