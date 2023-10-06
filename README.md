@@ -3421,3 +3421,4 @@ Updated README with new instructions - update 7
 Fixed memory management issue - v6.9.1
 Updated styling and themes - update 44
 Updated dependencies to latest versions - build 312
+Added proper error handling - v10.5.3
