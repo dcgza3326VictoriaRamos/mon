@@ -1728,3 +1728,4 @@ Code cleanup and formatting - build 362
 Updated version number - v9.6.1
 Added input validation
 Added new feature for better user experience - build 219
+Added detailed comments for clarity - v9.1.3
