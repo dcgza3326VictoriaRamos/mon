@@ -2572,3 +2572,4 @@ Optimized algorithm for better efficiency - v3.6.0
 Fixed typo in documentation
 Fixed code formatting issues - 684
 Fixed memory management issue - 705
+Added detailed comments for clarity
