@@ -1386,3 +1386,4 @@ Code cleanup and formatting - v9.3.6
 Updated README with new instructions
 Improved user interface design - v2.1.4
 Added detailed comments for clarity - v5.5.6
+Refactored code for better maintainability - v3.1.7
