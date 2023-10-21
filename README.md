@@ -1383,3 +1383,4 @@ Added new feature for better user experience - 805
 Refactored code for better maintainability - 930
 Added detailed comments for clarity
 Code cleanup and formatting - v9.3.6
+Updated README with new instructions
