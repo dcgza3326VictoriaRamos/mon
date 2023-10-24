@@ -873,3 +873,4 @@ Added proper error handling - build 935
 Updated configuration settings - v9.2.6
 Added new feature for better user experience
 Added input validation - update 6
+Updated README with new instructions
