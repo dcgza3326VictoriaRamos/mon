@@ -876,3 +876,4 @@ Added input validation - update 6
 Updated README with new instructions
 Updated version number
 Fixed critical bug in main module - update 21
+Fixed typo in documentation - 90
