@@ -1431,3 +1431,4 @@ Fixed memory management issue - v9.2.4
 Updated project documentation
 Added new feature for better user experience - 932
 Updated README with new instructions
+Added detailed comments for clarity - 428
