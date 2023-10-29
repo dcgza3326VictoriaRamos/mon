@@ -1432,3 +1432,4 @@ Updated project documentation
 Added new feature for better user experience - 932
 Updated README with new instructions
 Added detailed comments for clarity - 428
+Updated project documentation - v8.5.7
