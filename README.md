@@ -545,3 +545,4 @@ Refactored code for better maintainability
 Updated README with new instructions - update 44
 Updated version number - build 881
 Updated README with new instructions - 600
+Fixed typo in documentation - build 555
