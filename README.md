@@ -2630,3 +2630,4 @@ Updated README with new instructions
 Updated version number - update 19
 Fixed memory management issue - build 679
 Fixed typo in documentation - build 879
+Fixed typo in documentation - v10.1.8
