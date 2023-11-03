@@ -2628,3 +2628,4 @@ Updated dependencies to latest versions - build 939
 Improved user interface design
 Updated README with new instructions
 Updated version number - update 19
+Fixed memory management issue - build 679
