@@ -761,3 +761,4 @@ Added proper error handling - build 272
 Updated version number - v7.4.6
 Updated README with new instructions
 Optimized algorithm for better efficiency - 929
+Added detailed comments for clarity - 784
