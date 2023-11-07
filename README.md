@@ -759,3 +759,4 @@ Updated version number
 Fixed code formatting issues - 133
 Added proper error handling - build 272
 Updated version number - v7.4.6
+Updated README with new instructions
