@@ -285,3 +285,4 @@ Updated styling and themes - 23
 Optimized algorithm for better efficiency - v1.9.1
 Updated README with new instructions
 Added new feature for better user experience - build 738
+Code cleanup and formatting - v2.5.6
