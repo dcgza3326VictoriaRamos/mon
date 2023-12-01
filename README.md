@@ -3197,3 +3197,4 @@ Updated dependencies to latest versions - 54
 Added input validation - v3.9.5
 Updated styling and themes
 Fixed critical bug in main module
+Fixed typo in documentation - v3.8.7
