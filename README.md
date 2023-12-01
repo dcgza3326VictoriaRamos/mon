@@ -3196,3 +3196,4 @@ Updated version number
 Updated dependencies to latest versions - 54
 Added input validation - v3.9.5
 Updated styling and themes
+Fixed critical bug in main module
