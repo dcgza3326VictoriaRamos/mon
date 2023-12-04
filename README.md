@@ -3081,3 +3081,4 @@ Updated styling and themes
 Updated project documentation - update 38
 Added new feature for better user experience
 Updated version number
+Added detailed comments for clarity - build 628
