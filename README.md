@@ -3405,3 +3405,4 @@ Fixed memory management issue - update 47
 Improved performance optimization - 794
 Updated README with new instructions - v3.4.6
 Updated configuration settings
+Added detailed comments for clarity - v4.6.1
