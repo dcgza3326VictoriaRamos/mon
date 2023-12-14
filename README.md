@@ -2996,3 +2996,4 @@ Fixed code formatting issues - v5.0.3
 Updated README with new instructions - 839
 Added proper error handling - update 30
 Updated README with new instructions - update 11
+Updated version number - 422
