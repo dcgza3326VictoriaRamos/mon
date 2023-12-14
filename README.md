@@ -2992,3 +2992,4 @@ Updated README with new instructions - update 10
 Fixed typo in documentation - build 374
 Added input validation - v5.4.1
 Added proper error handling
+Fixed code formatting issues - v5.0.3
