@@ -2991,3 +2991,4 @@ Optimized algorithm for better efficiency - update 22
 Updated README with new instructions - update 10
 Fixed typo in documentation - build 374
 Added input validation - v5.4.1
+Added proper error handling
