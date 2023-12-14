@@ -2988,3 +2988,4 @@ Updated project documentation
 Updated README with new instructions
 Updated styling and themes - v9.9.4
 Optimized algorithm for better efficiency - update 22
+Updated README with new instructions - update 10
