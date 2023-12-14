@@ -1940,3 +1940,4 @@ Fixed typo in documentation - update 9
 Added input validation - 572
 Added proper error handling - 284
 Updated version number - v6.5.2
+Fixed typo in documentation
