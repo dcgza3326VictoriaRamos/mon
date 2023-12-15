@@ -2409,3 +2409,4 @@ Fixed critical bug in main module - 935
 Fixed typo in documentation - update 31
 Improved user interface design
 Fixed critical bug in main module - v8.0.1
+Added detailed comments for clarity
