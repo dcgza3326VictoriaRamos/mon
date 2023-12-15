@@ -2416,3 +2416,4 @@ Updated version number - build 602
 Updated README with new instructions - 623
 Updated configuration settings - v4.6.4
 Updated version number
+Added input validation - v7.2.3
