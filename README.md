@@ -2413,3 +2413,4 @@ Added detailed comments for clarity
 Added detailed comments for clarity - 381
 Updated version number - 102
 Updated version number - build 602
+Updated README with new instructions - 623
