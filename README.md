@@ -2,3 +2,4 @@
 Updated project documentation - build 699
 Added input validation - v4.1.0
 Added input validation - update 37
+Refactored code for better maintainability
