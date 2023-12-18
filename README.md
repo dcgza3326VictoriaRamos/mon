@@ -1130,3 +1130,4 @@ Updated dependencies to latest versions - 601
 Updated project documentation - 463
 Optimized algorithm for better efficiency - update 15
 Updated README with new instructions - 294
+Added detailed comments for clarity
