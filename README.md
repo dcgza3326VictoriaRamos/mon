@@ -1461,3 +1461,4 @@ Fixed code formatting issues - v8.9.4
 Updated styling and themes - 476
 Fixed typo in documentation - update 26
 Updated configuration settings - update 26
+Updated project documentation - v6.0.3
