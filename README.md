@@ -400,3 +400,4 @@ Refactored code for better maintainability - v2.6.8
 Updated project documentation
 Fixed code formatting issues - build 111
 Fixed typo in documentation - update 21
+Optimized algorithm for better efficiency - 710
