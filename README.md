@@ -981,3 +981,4 @@ Added detailed comments for clarity
 Updated version number
 Fixed critical bug in main module - build 327
 Added proper error handling - 433
+Fixed memory management issue - v1.8.5
