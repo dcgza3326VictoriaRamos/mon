@@ -41,3 +41,4 @@ Improved user interface design - build 502
 Fixed critical bug in main module - update 42
 Updated version number - update 48
 Updated README with new instructions
+Updated dependencies to latest versions - v6.0.2
