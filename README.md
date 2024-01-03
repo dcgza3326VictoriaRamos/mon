@@ -955,3 +955,4 @@ Fixed typo in documentation - v3.1.3
 Optimized algorithm for better efficiency - 47
 Updated README with new instructions
 Updated styling and themes - build 796
+Updated configuration settings - v6.1.4
