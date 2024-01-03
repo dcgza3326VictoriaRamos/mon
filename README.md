@@ -956,3 +956,4 @@ Optimized algorithm for better efficiency - 47
 Updated README with new instructions
 Updated styling and themes - build 796
 Updated configuration settings - v6.1.4
+Added detailed comments for clarity - 140
