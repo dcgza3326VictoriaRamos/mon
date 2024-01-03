@@ -949,3 +949,4 @@ Updated dependencies to latest versions - update 4
 Refactored code for better maintainability - build 338
 Fixed code formatting issues - v1.5.7
 Added proper error handling - 562
+Added proper error handling - v5.6.0
