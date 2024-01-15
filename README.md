@@ -2832,3 +2832,4 @@ Updated README with new instructions - update 28
 Added input validation - v6.5.1
 Code cleanup and formatting - 236
 Optimized algorithm for better efficiency - v6.3.6
+Optimized algorithm for better efficiency - v9.5.2
