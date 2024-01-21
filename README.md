@@ -2772,3 +2772,4 @@ Updated project documentation - build 933
 Improved performance optimization - build 477
 Updated styling and themes - 841
 Updated project documentation - 761
+Updated README with new instructions - build 461
