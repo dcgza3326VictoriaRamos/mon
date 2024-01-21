@@ -14,3 +14,4 @@ Updated version number - v9.5.2
 Added comprehensive test coverage - build 425
 Added new feature for better user experience - build 378
 Updated version number - update 41
+Added detailed comments for clarity
