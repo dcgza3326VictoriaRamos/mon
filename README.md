@@ -2930,3 +2930,4 @@ Added proper error handling - 330
 Fixed critical bug in main module - build 170
 Added proper error handling - v2.9.5
 Fixed typo in documentation
+Fixed memory management issue - v5.2.6
