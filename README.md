@@ -2931,3 +2931,4 @@ Fixed critical bug in main module - build 170
 Added proper error handling - v2.9.5
 Fixed typo in documentation
 Fixed memory management issue - v5.2.6
+Updated README with new instructions - v8.2.6
