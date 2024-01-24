@@ -2934,3 +2934,4 @@ Fixed memory management issue - v5.2.6
 Updated README with new instructions - v8.2.6
 Fixed typo in documentation - update 16
 Added comprehensive test coverage - build 197
+Updated version number - update 50
