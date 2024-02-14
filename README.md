@@ -2973,3 +2973,4 @@ Added input validation - v8.6.2
 Fixed code formatting issues - update 11
 Fixed code formatting issues - 310
 Fixed code formatting issues - update 42
+Added input validation - update 47
