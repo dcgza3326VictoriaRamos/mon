@@ -2320,3 +2320,4 @@ Fixed memory management issue - 890
 Fixed typo in documentation - update 40
 Fixed memory management issue - 850
 Improved performance optimization - v8.9.2
+Added detailed comments for clarity - build 249
