@@ -2319,3 +2319,4 @@ Fixed typo in documentation - v6.6.9
 Fixed memory management issue - 890
 Fixed typo in documentation - update 40
 Fixed memory management issue - 850
+Improved performance optimization - v8.9.2
