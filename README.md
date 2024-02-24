@@ -2690,3 +2690,4 @@ Fixed memory management issue - v3.2.6
 Updated dependencies to latest versions - 611
 Updated configuration settings - build 428
 Added detailed comments for clarity - 120
+Fixed memory management issue - v10.7.6
