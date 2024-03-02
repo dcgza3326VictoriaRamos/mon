@@ -3877,3 +3877,4 @@ Improved user interface design - build 837
 Refactored code for better maintainability - update 1
 Fixed memory management issue - 886
 Fixed memory management issue
+Updated README with new instructions - build 932
