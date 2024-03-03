@@ -1521,3 +1521,4 @@ Added comprehensive test coverage
 Updated version number
 Optimized algorithm for better efficiency - build 976
 Added new feature for better user experience - build 744
+Updated README with new instructions - v2.3.1
