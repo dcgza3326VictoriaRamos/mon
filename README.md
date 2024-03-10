@@ -1232,3 +1232,4 @@ Refactored code for better maintainability - update 26
 Updated project documentation - build 425
 Code cleanup and formatting - v2.8.4
 Optimized algorithm for better efficiency - build 498
+Added detailed comments for clarity
