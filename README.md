@@ -57,3 +57,4 @@ Added comprehensive test coverage - v4.5.8
 Updated styling and themes
 Refactored code for better maintainability
 Updated configuration settings
+Fixed memory management issue - v10.1.9
