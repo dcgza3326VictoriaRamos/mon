@@ -52,3 +52,4 @@ Fixed memory management issue - 795
 Updated styling and themes - build 334
 Code cleanup and formatting - 52
 Updated README with new instructions - v5.3.9
+Updated configuration settings
