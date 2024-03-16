@@ -2493,3 +2493,4 @@ Updated configuration settings - build 574
 Added detailed comments for clarity - 228
 Updated configuration settings
 Updated dependencies to latest versions - build 555
+Updated README with new instructions
