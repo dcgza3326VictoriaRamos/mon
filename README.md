@@ -895,3 +895,4 @@ Fixed critical bug in main module
 Added input validation - v6.8.5
 Fixed typo in documentation - 928
 Code cleanup and formatting - update 44
+Updated project documentation - v2.8.3
