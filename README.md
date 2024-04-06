@@ -3860,3 +3860,4 @@ Fixed code formatting issues - 519
 Fixed critical bug in main module - 851
 Fixed critical bug in main module - build 759
 Code cleanup and formatting - v4.1.1
+Fixed code formatting issues - v3.9.2
