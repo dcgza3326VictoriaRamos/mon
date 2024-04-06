@@ -1822,3 +1822,4 @@ Updated project documentation - build 777
 Fixed memory management issue
 Fixed critical bug in main module
 Fixed code formatting issues - build 105
+Fixed typo in documentation - v8.9.6
