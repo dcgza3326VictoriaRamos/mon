@@ -1824,3 +1824,4 @@ Fixed critical bug in main module
 Fixed code formatting issues - build 105
 Fixed typo in documentation - v8.9.6
 Fixed critical bug in main module - 344
+Updated README with new instructions - update 13
