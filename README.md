@@ -3312,3 +3312,4 @@ Updated README with new instructions
 Updated styling and themes - 806
 Added comprehensive test coverage - update 18
 Refactored code for better maintainability - build 713
+Updated README with new instructions - v3.7.1
