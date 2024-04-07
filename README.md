@@ -3308,3 +3308,4 @@ Updated README with new instructions - v7.6.8
 Updated configuration settings
 Added proper error handling - 68
 Added detailed comments for clarity - v2.1.1
+Updated README with new instructions
