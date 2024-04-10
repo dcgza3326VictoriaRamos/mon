@@ -266,3 +266,4 @@ Fixed critical bug in main module - update 30
 Updated version number
 Updated dependencies to latest versions - 576
 Fixed critical bug in main module - update 18
+Fixed memory management issue - build 496
