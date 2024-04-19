@@ -3018,3 +3018,4 @@ Improved performance optimization - 98
 Updated styling and themes
 Added new feature for better user experience
 Updated styling and themes - build 568
+Updated version number - v8.4.7
