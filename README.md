@@ -3022,3 +3022,4 @@ Updated version number - v8.4.7
 Updated styling and themes - update 34
 Updated version number - v9.9.2
 Updated dependencies to latest versions - update 36
+Added detailed comments for clarity - update 11
