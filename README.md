@@ -1678,3 +1678,4 @@ Updated configuration settings - update 32
 Added input validation - v4.0.3
 Added input validation - 824
 Updated styling and themes - build 346
+Added detailed comments for clarity
