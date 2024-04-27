@@ -913,3 +913,4 @@ Added detailed comments for clarity - v3.9.3
 Updated styling and themes - 622
 Updated styling and themes - v4.7.7
 Updated README with new instructions - update 19
+Updated configuration settings - update 35
