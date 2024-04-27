@@ -914,3 +914,4 @@ Updated styling and themes - 622
 Updated styling and themes - v4.7.7
 Updated README with new instructions - update 19
 Updated configuration settings - update 35
+Added proper error handling
