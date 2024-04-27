@@ -916,3 +916,4 @@ Updated README with new instructions - update 19
 Updated configuration settings - update 35
 Added proper error handling
 Updated version number
+Added detailed comments for clarity - 433
