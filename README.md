@@ -1324,3 +1324,4 @@ Updated styling and themes - update 17
 Improved performance optimization - update 20
 Updated styling and themes - 535
 Added new feature for better user experience - v5.9.2
+Added detailed comments for clarity - update 17
