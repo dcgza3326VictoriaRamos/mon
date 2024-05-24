@@ -163,3 +163,4 @@ Fixed memory management issue
 Fixed memory management issue - v3.8.0
 Added proper error handling - v10.4.8
 Added proper error handling - 754
+Updated configuration settings - v2.0.3
