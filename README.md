@@ -158,3 +158,4 @@ Added input validation - v8.8.4
 Fixed memory management issue
 Updated README with new instructions - update 6
 Updated configuration settings - update 32
+Fixed typo in documentation - 69
