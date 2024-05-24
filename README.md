@@ -161,3 +161,4 @@ Updated configuration settings - update 32
 Fixed typo in documentation - 69
 Fixed memory management issue
 Fixed memory management issue - v3.8.0
+Added proper error handling - v10.4.8
