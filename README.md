@@ -1662,3 +1662,4 @@ Updated version number - v1.1.1
 Updated project documentation - update 5
 Updated project documentation - update 21
 Added new feature for better user experience - build 212
+Added detailed comments for clarity - v9.0.3
