@@ -3531,3 +3531,4 @@ Added proper error handling
 Refactored code for better maintainability
 Updated README with new instructions
 Refactored code for better maintainability
+Updated styling and themes - v1.1.6
