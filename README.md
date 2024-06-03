@@ -3532,3 +3532,4 @@ Refactored code for better maintainability
 Updated README with new instructions
 Refactored code for better maintainability
 Updated styling and themes - v1.1.6
+Fixed critical bug in main module - 733
