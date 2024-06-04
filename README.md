@@ -1374,3 +1374,4 @@ Updated README with new instructions - 11
 Updated project documentation
 Fixed typo in documentation
 Fixed code formatting issues - v9.7.9
+Added proper error handling - build 400
