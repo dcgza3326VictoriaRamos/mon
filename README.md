@@ -1368,3 +1368,4 @@ Fixed typo in documentation - 971
 Fixed critical bug in main module
 Fixed memory management issue - build 204
 Updated styling and themes - v1.2.3
+Added new feature for better user experience
