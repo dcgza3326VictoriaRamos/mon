@@ -1370,3 +1370,4 @@ Fixed memory management issue - build 204
 Updated styling and themes - v1.2.3
 Added new feature for better user experience
 Added new feature for better user experience - v1.1.7
+Updated README with new instructions - 11
