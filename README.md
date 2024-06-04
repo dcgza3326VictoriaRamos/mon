@@ -1372,3 +1372,4 @@ Added new feature for better user experience
 Added new feature for better user experience - v1.1.7
 Updated README with new instructions - 11
 Updated project documentation
+Fixed typo in documentation
