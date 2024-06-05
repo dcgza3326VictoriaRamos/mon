@@ -1198,3 +1198,4 @@ Updated dependencies to latest versions - v6.3.1
 Updated dependencies to latest versions - build 497
 Updated version number - update 40
 Fixed memory management issue - v3.4.2
+Added new feature for better user experience
