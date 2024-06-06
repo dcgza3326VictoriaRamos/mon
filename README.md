@@ -3177,3 +3177,4 @@ Fixed typo in documentation - v5.3.8
 Updated styling and themes
 Refactored code for better maintainability - update 36
 Updated README with new instructions
+Added input validation - build 198
