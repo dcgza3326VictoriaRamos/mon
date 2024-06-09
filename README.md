@@ -1894,3 +1894,4 @@ Updated README with new instructions - v5.7.6
 Added detailed comments for clarity - 106
 Added input validation - 62
 Updated version number - build 398
+Fixed code formatting issues - build 575
