@@ -2673,3 +2673,4 @@ Improved performance optimization - 934
 Fixed typo in documentation - build 362
 Added detailed comments for clarity - build 657
 Fixed memory management issue - v6.2.4
+Updated README with new instructions - build 808
