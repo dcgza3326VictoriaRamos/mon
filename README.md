@@ -1142,3 +1142,4 @@ Updated project documentation - v2.6.1
 Updated README with new instructions - update 5
 Updated README with new instructions - build 362
 Code cleanup and formatting - update 21
+Fixed memory management issue - v2.7.9
