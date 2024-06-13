@@ -1145,3 +1145,4 @@ Code cleanup and formatting - update 21
 Fixed memory management issue - v2.7.9
 Added new feature for better user experience - update 9
 Updated dependencies to latest versions - build 973
+Updated README with new instructions
