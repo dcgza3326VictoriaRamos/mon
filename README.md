@@ -1139,3 +1139,4 @@ Updated project documentation - update 2
 Updated styling and themes - 284
 Added input validation - v3.9.8
 Updated project documentation - v2.6.1
+Updated README with new instructions - update 5
