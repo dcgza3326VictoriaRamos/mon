@@ -1138,3 +1138,4 @@ Added proper error handling - v1.6.9
 Updated project documentation - update 2
 Updated styling and themes - 284
 Added input validation - v3.9.8
+Updated project documentation - v2.6.1
