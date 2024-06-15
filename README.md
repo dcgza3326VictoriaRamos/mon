@@ -61,3 +61,4 @@ Fixed memory management issue - v10.1.9
 Updated dependencies to latest versions
 Updated configuration settings
 Fixed code formatting issues - 282
+Fixed typo in documentation - build 606
