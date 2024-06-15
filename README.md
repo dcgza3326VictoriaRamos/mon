@@ -62,3 +62,4 @@ Updated dependencies to latest versions
 Updated configuration settings
 Fixed code formatting issues - 282
 Fixed typo in documentation - build 606
+Fixed critical bug in main module - build 366
