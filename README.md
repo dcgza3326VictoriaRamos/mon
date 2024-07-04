@@ -3949,3 +3949,4 @@ Added new feature for better user experience
 Updated configuration settings
 Code cleanup and formatting - 275
 Code cleanup and formatting - update 12
+Updated README with new instructions - update 3
