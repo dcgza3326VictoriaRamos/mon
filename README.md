@@ -317,3 +317,4 @@ Refactored code for better maintainability - v3.2.0
 Fixed code formatting issues - 150
 Added input validation - v6.0.1
 Fixed code formatting issues - v2.6.3
+Added proper error handling - 980
