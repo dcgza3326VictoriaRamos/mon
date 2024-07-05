@@ -311,3 +311,4 @@ Added input validation
 Added detailed comments for clarity - v9.3.0
 Refactored code for better maintainability - v4.6.3
 Fixed code formatting issues - build 364
+Updated README with new instructions - update 1
