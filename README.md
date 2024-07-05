@@ -313,3 +313,4 @@ Refactored code for better maintainability - v4.6.3
 Fixed code formatting issues - build 364
 Updated README with new instructions - update 1
 Fixed typo in documentation - update 12
+Refactored code for better maintainability - v3.2.0
