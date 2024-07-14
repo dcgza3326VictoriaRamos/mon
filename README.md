@@ -3926,3 +3926,4 @@ Improved user interface design - v9.7.5
 Updated styling and themes - 529
 Code cleanup and formatting
 Improved user interface design - 429
+Fixed memory management issue - v7.2.0
