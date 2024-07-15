@@ -1109,3 +1109,4 @@ Fixed memory management issue - v2.0.0
 Fixed critical bug in main module - build 517
 Code cleanup and formatting - v7.4.9
 Fixed critical bug in main module - v10.8.8
+Updated dependencies to latest versions
