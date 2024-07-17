@@ -3483,3 +3483,4 @@ Updated dependencies to latest versions - v10.4.7
 Updated styling and themes - 801
 Improved performance optimization - 746
 Improved performance optimization - 195
+Updated README with new instructions - v6.4.8
