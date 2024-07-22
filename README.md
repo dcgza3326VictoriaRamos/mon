@@ -2918,3 +2918,4 @@ Updated configuration settings - build 640
 Added input validation
 Code cleanup and formatting - update 32
 Updated version number - update 10
+Updated README with new instructions
