@@ -2923,3 +2923,4 @@ Refactored code for better maintainability
 Code cleanup and formatting - update 30
 Fixed typo in documentation - update 15
 Added new feature for better user experience - update 36
+Fixed memory management issue - v4.6.3
