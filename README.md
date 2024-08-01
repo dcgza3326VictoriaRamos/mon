@@ -3757,3 +3757,4 @@ Fixed typo in documentation
 Updated dependencies to latest versions - v8.1.8
 Updated dependencies to latest versions
 Optimized algorithm for better efficiency - build 326
+Added detailed comments for clarity - v10.6.7
