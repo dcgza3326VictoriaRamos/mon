@@ -2193,3 +2193,4 @@ Added input validation - v4.8.6
 Updated version number - build 590
 Added new feature for better user experience - 602
 Improved performance optimization - 910
+Updated version number - v5.3.4
