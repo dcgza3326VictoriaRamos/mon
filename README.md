@@ -2195,3 +2195,4 @@ Added new feature for better user experience - 602
 Improved performance optimization - 910
 Updated version number - v5.3.4
 Fixed code formatting issues - 930
+Fixed memory management issue - update 29
