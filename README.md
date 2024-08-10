@@ -720,3 +720,4 @@ Added comprehensive test coverage - build 363
 Added new feature for better user experience - build 659
 Updated dependencies to latest versions - build 504
 Updated version number
+Updated configuration settings - v5.0.7
