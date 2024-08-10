@@ -723,3 +723,4 @@ Updated version number
 Updated configuration settings - v5.0.7
 Added detailed comments for clarity
 Fixed typo in documentation - 606
+Added proper error handling - v2.6.6
