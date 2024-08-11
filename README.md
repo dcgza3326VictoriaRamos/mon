@@ -2463,3 +2463,4 @@ Updated styling and themes - update 50
 Added proper error handling
 Added comprehensive test coverage - update 49
 Fixed typo in documentation
+Added input validation - v9.0.7
