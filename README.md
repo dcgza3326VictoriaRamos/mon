@@ -2657,3 +2657,4 @@ Updated version number - v9.9.1
 Updated project documentation - 917
 Added proper error handling
 Updated configuration settings
+Code cleanup and formatting
