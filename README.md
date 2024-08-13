@@ -1181,3 +1181,4 @@ Code cleanup and formatting - build 985
 Updated configuration settings - update 47
 Updated dependencies to latest versions - build 199
 Fixed typo in documentation - 737
+Added input validation - v5.5.1
