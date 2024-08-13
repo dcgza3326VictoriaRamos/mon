@@ -1184,3 +1184,4 @@ Fixed typo in documentation - 737
 Added input validation - v5.5.1
 Added detailed comments for clarity - build 978
 Fixed memory management issue - build 625
+Updated README with new instructions - v8.2.7
