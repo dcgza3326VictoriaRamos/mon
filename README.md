@@ -1183,3 +1183,4 @@ Updated dependencies to latest versions - build 199
 Fixed typo in documentation - 737
 Added input validation - v5.5.1
 Added detailed comments for clarity - build 978
+Fixed memory management issue - build 625
