@@ -1186,3 +1186,4 @@ Added detailed comments for clarity - build 978
 Fixed memory management issue - build 625
 Updated README with new instructions - v8.2.7
 Fixed memory management issue - update 31
+Fixed code formatting issues
