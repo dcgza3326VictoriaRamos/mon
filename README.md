@@ -2074,3 +2074,4 @@ Updated styling and themes - build 936
 Updated version number - build 935
 Updated README with new instructions - build 440
 Updated configuration settings - v9.7.3
+Added detailed comments for clarity - update 50
