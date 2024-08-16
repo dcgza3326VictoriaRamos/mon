@@ -3438,3 +3438,4 @@ Fixed critical bug in main module - update 17
 Added comprehensive test coverage - build 190
 Improved user interface design - update 8
 Updated project documentation
+Updated README with new instructions - v4.4.7
