@@ -1806,3 +1806,4 @@ Updated styling and themes
 Added detailed comments for clarity - update 7
 Added detailed comments for clarity
 Updated project documentation - update 7
+Fixed memory management issue
