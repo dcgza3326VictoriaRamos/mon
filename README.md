@@ -715,3 +715,4 @@ Updated README with new instructions - build 779
 Updated version number - v2.4.5
 Updated styling and themes - 945
 Added detailed comments for clarity - build 364
+Updated version number - v7.2.7
