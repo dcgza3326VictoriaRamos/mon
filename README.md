@@ -3704,3 +3704,4 @@ Fixed typo in documentation - v7.9.4
 Updated version number - update 1
 Updated project documentation - update 18
 Updated dependencies to latest versions - v6.6.5
+Updated styling and themes - v9.4.1
