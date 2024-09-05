@@ -2082,3 +2082,4 @@ Updated styling and themes - 431
 Updated dependencies to latest versions - 969
 Added new feature for better user experience - update 1
 Updated styling and themes - update 34
+Fixed memory management issue
