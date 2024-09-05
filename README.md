@@ -448,3 +448,4 @@ Updated README with new instructions - 82
 Updated README with new instructions - build 769
 Updated styling and themes - 308
 Added new feature for better user experience - v5.8.9
+Updated project documentation - 334
