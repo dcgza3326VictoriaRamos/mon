@@ -3073,3 +3073,4 @@ Improved performance optimization - build 888
 Fixed memory management issue - build 921
 Refactored code for better maintainability - 25
 Updated README with new instructions - v8.3.3
+Added new feature for better user experience
