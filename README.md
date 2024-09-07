@@ -3076,3 +3076,4 @@ Updated README with new instructions - v8.3.3
 Added new feature for better user experience
 Fixed typo in documentation - v6.1.0
 Updated README with new instructions - build 764
+Fixed memory management issue - v9.6.9
