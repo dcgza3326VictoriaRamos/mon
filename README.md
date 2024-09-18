@@ -461,3 +461,4 @@ Optimized algorithm for better efficiency - v7.0.0
 Improved user interface design - build 578
 Updated README with new instructions - 138
 Improved user interface design - 96
+Fixed memory management issue - update 44
