@@ -587,3 +587,4 @@ Updated project documentation - build 252
 Updated README with new instructions - update 5
 Improved user interface design - 327
 Fixed code formatting issues
+Updated version number
