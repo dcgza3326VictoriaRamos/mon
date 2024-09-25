@@ -582,3 +582,4 @@ Code cleanup and formatting - v8.5.0
 Updated dependencies to latest versions - build 930
 Fixed critical bug in main module - 780
 Added proper error handling - 904
+Updated README with new instructions - v5.2.1
