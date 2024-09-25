@@ -584,3 +584,4 @@ Fixed critical bug in main module - 780
 Added proper error handling - 904
 Updated README with new instructions - v5.2.1
 Updated project documentation - build 252
+Updated README with new instructions - update 5
