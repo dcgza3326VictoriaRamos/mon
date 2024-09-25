@@ -578,3 +578,4 @@ Updated styling and themes - update 48
 Fixed typo in documentation - 932
 Optimized algorithm for better efficiency - build 436
 Updated project documentation - build 271
+Code cleanup and formatting - v8.5.0
