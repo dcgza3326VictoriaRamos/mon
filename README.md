@@ -474,3 +474,4 @@ Fixed typo in documentation - v9.1.3
 Added input validation - update 23
 Updated styling and themes
 Fixed critical bug in main module - build 495
+Added new feature for better user experience - 825
