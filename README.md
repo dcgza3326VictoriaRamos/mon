@@ -473,3 +473,4 @@ Refactored code for better maintainability - build 161
 Fixed typo in documentation - v9.1.3
 Added input validation - update 23
 Updated styling and themes
+Fixed critical bug in main module - build 495
