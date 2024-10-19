@@ -2785,3 +2785,4 @@ Updated configuration settings - v4.9.9
 Fixed typo in documentation - update 40
 Updated project documentation - v5.8.2
 Code cleanup and formatting
+Refactored code for better maintainability - v9.8.4
