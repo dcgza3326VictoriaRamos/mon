@@ -2382,3 +2382,4 @@ Fixed typo in documentation - update 34
 Refactored code for better maintainability - build 960
 Updated version number - build 482
 Added proper error handling - 997
+Updated styling and themes - v1.8.1
