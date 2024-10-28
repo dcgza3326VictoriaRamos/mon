@@ -1754,3 +1754,4 @@ Fixed typo in documentation - update 39
 Updated version number - v10.9.0
 Optimized algorithm for better efficiency - 357
 Added detailed comments for clarity - update 15
+Updated version number - update 8
