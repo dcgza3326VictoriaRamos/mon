@@ -1748,3 +1748,4 @@ Updated dependencies to latest versions - update 32
 Fixed critical bug in main module - 598
 Fixed typo in documentation
 Fixed critical bug in main module
+Refactored code for better maintainability - v7.9.6
