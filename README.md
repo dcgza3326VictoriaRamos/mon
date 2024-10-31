@@ -1154,3 +1154,4 @@ Fixed memory management issue - v4.2.0
 Fixed typo in documentation - 486
 Updated project documentation
 Fixed memory management issue - v3.6.1
+Fixed code formatting issues
