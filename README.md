@@ -1150,3 +1150,4 @@ Improved performance optimization - 138
 Improved user interface design - v5.6.0
 Refactored code for better maintainability - update 28
 Updated styling and themes - 406
+Fixed memory management issue - v4.2.0
