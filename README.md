@@ -1492,3 +1492,4 @@ Updated version number - update 22
 Updated dependencies to latest versions - update 6
 Updated project documentation - v3.4.6
 Improved user interface design - build 832
+Fixed typo in documentation
