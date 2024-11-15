@@ -3379,3 +3379,4 @@ Updated README with new instructions - v2.0.5
 Added input validation
 Added detailed comments for clarity - 605
 Added input validation - update 49
+Fixed memory management issue - update 37
