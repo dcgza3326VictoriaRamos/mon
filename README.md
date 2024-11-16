@@ -1288,3 +1288,4 @@ Updated styling and themes
 Updated dependencies to latest versions - 952
 Code cleanup and formatting - update 42
 Fixed memory management issue
+Updated dependencies to latest versions - v1.1.2
