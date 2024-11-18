@@ -3986,3 +3986,4 @@ Updated README with new instructions - v6.3.8
 Updated styling and themes - 126
 Code cleanup and formatting - update 43
 Fixed code formatting issues - 910
+Updated README with new instructions - v5.7.6
