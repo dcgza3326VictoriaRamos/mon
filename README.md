@@ -3981,3 +3981,4 @@ Fixed memory management issue
 Fixed typo in documentation - 601
 Updated dependencies to latest versions - build 668
 Updated README with new instructions - update 25
+Fixed typo in documentation - 989
