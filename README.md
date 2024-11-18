@@ -3983,3 +3983,4 @@ Updated dependencies to latest versions - build 668
 Updated README with new instructions - update 25
 Fixed typo in documentation - 989
 Updated README with new instructions - v6.3.8
+Updated styling and themes - 126
