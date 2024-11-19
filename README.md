@@ -3645,3 +3645,4 @@ Fixed code formatting issues - update 23
 Fixed critical bug in main module - v3.6.3
 Fixed memory management issue - 317
 Added detailed comments for clarity - update 2
+Fixed memory management issue - v3.2.4
