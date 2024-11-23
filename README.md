@@ -1832,3 +1832,4 @@ Updated project documentation - update 31
 Refactored code for better maintainability
 Added input validation - 808
 Fixed typo in documentation - 810
+Updated README with new instructions - v2.2.0
