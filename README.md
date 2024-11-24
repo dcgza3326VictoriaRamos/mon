@@ -2910,3 +2910,4 @@ Added proper error handling - update 11
 Added input validation
 Updated version number
 Refactored code for better maintainability - build 632
+Updated README with new instructions - build 271
