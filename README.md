@@ -3152,3 +3152,4 @@ Improved performance optimization
 Added input validation
 Added input validation - v3.5.1
 Updated README with new instructions - 587
+Updated configuration settings - v7.0.3
