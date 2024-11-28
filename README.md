@@ -3151,3 +3151,4 @@ Updated project documentation - update 45
 Improved performance optimization
 Added input validation
 Added input validation - v3.5.1
+Updated README with new instructions - 587
