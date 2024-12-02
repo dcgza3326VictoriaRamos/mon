@@ -816,3 +816,4 @@ Added new feature for better user experience
 Fixed memory management issue - 143
 Updated project documentation - v9.8.0
 Updated project documentation - update 4
+Fixed critical bug in main module
