@@ -811,3 +811,4 @@ Added proper error handling
 Updated README with new instructions - update 31
 Added new feature for better user experience - update 43
 Updated version number - v9.2.0
+Updated README with new instructions - update 25
