@@ -813,3 +813,4 @@ Added new feature for better user experience - update 43
 Updated version number - v9.2.0
 Updated README with new instructions - update 25
 Added new feature for better user experience
+Fixed memory management issue - 143
