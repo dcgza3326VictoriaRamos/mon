@@ -150,3 +150,4 @@ Updated styling and themes - 180
 Refactored code for better maintainability - 939
 Added comprehensive test coverage - update 12
 Added new feature for better user experience - 574
+Fixed memory management issue - v1.4.1
