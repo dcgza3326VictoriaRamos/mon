@@ -154,3 +154,4 @@ Fixed memory management issue - v1.4.1
 Updated dependencies to latest versions - v1.1.6
 Improved performance optimization - build 620
 Updated version number - update 21
+Added input validation - v8.8.4
