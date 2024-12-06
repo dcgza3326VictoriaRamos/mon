@@ -1637,3 +1637,4 @@ Refactored code for better maintainability
 Improved user interface design - update 39
 Updated README with new instructions - v3.5.6
 Optimized algorithm for better efficiency - update 47
+Updated README with new instructions - update 40
