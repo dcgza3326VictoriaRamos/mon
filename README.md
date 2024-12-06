@@ -1670,3 +1670,4 @@ Updated styling and themes - build 785
 Updated styling and themes
 Optimized algorithm for better efficiency - 70
 Fixed typo in documentation - 788
+Updated project documentation - 836
