@@ -1635,3 +1635,4 @@ Updated styling and themes
 Updated styling and themes
 Refactored code for better maintainability
 Improved user interface design - update 39
+Updated README with new instructions - v3.5.6
