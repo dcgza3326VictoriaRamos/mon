@@ -1633,3 +1633,4 @@ Updated dependencies to latest versions - v7.2.9
 Added input validation - build 651
 Updated styling and themes
 Updated styling and themes
+Refactored code for better maintainability
