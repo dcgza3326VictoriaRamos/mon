@@ -203,3 +203,4 @@ Updated styling and themes - update 28
 Added input validation - 354
 Added input validation - 670
 Fixed typo in documentation - v5.5.5
+Updated version number
