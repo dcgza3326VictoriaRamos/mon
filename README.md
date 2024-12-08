@@ -205,3 +205,4 @@ Added input validation - 670
 Fixed typo in documentation - v5.5.5
 Updated version number
 Fixed typo in documentation - build 868
+Updated version number - 968
