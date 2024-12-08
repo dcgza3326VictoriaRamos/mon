@@ -207,3 +207,4 @@ Updated version number
 Fixed typo in documentation - build 868
 Updated version number - 968
 Fixed critical bug in main module - build 638
+Updated project documentation - 678
