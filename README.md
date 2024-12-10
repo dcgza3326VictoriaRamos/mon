@@ -3470,3 +3470,4 @@ Added input validation - 230
 Fixed critical bug in main module - v1.0.6
 Updated version number - 235
 Added input validation - build 496
+Updated styling and themes - v2.8.4
