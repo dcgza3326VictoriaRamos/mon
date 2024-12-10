@@ -3472,3 +3472,4 @@ Updated version number - 235
 Added input validation - build 496
 Updated styling and themes - v2.8.4
 Fixed critical bug in main module - 157
+Fixed code formatting issues - build 972
