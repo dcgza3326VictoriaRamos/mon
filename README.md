@@ -629,3 +629,4 @@ Optimized algorithm for better efficiency - 509
 Added comprehensive test coverage - 676
 Fixed memory management issue
 Updated version number
+Updated README with new instructions - 631
