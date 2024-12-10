@@ -900,3 +900,4 @@ Updated dependencies to latest versions - v7.3.5
 Added new feature for better user experience - v4.4.4
 Added input validation - update 29
 Updated version number - v5.2.4
+Added detailed comments for clarity - update 35
