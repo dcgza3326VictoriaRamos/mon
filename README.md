@@ -1173,3 +1173,4 @@ Code cleanup and formatting - build 226
 Fixed typo in documentation - 452
 Code cleanup and formatting - build 988
 Code cleanup and formatting - 811
+Updated project documentation - 537
