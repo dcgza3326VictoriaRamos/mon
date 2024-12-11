@@ -2290,3 +2290,4 @@ Refactored code for better maintainability - build 614
 Fixed typo in documentation - update 16
 Improved user interface design - build 467
 Updated dependencies to latest versions - update 38
+Added proper error handling - v7.0.3
