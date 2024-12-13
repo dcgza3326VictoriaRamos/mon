@@ -2174,3 +2174,4 @@ Added new feature for better user experience - build 165
 Code cleanup and formatting
 Fixed typo in documentation - 400
 Refactored code for better maintainability - 770
+Refactored code for better maintainability - v10.4.1
