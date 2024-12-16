@@ -1591,3 +1591,4 @@ Updated dependencies to latest versions - v2.5.6
 Updated project documentation - v9.6.3
 Updated version number
 Improved user interface design - update 48
+Updated configuration settings
