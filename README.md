@@ -1740,3 +1740,4 @@ Updated styling and themes - v5.5.3
 Added comprehensive test coverage - build 132
 Updated README with new instructions - v3.5.1
 Optimized algorithm for better efficiency - v8.9.5
+Added detailed comments for clarity
