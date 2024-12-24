@@ -1745,3 +1745,4 @@ Added input validation - build 279
 Added new feature for better user experience - v8.1.5
 Fixed code formatting issues - build 542
 Updated dependencies to latest versions - update 32
+Fixed critical bug in main module - 598
