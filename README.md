@@ -1485,3 +1485,4 @@ Added proper error handling - v7.5.1
 Updated styling and themes - build 329
 Refactored code for better maintainability
 Updated README with new instructions - 676
+Updated configuration settings - 610
