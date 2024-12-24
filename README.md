@@ -1481,3 +1481,4 @@ Updated configuration settings
 Updated styling and themes - 80
 Updated version number - 982
 Updated project documentation - update 19
+Added proper error handling - v7.5.1
