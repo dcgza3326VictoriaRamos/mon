@@ -1617,3 +1617,4 @@ Fixed typo in documentation
 Updated version number - build 463
 Fixed critical bug in main module - v8.5.3
 Updated README with new instructions - build 211
+Fixed critical bug in main module - build 251
