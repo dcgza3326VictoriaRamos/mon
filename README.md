@@ -1615,3 +1615,4 @@ Added input validation - build 565
 Updated version number - update 5
 Fixed typo in documentation
 Updated version number - build 463
+Fixed critical bug in main module - v8.5.3
