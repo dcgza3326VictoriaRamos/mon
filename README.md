@@ -826,3 +826,4 @@ Improved performance optimization - 225
 Added new feature for better user experience - v8.8.0
 Fixed code formatting issues - update 31
 Fixed memory management issue - update 22
+Fixed typo in documentation - v1.1.4
