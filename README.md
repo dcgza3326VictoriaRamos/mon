@@ -818,3 +818,4 @@ Updated project documentation - v9.8.0
 Updated project documentation - update 4
 Fixed critical bug in main module
 Improved performance optimization - update 11
+Fixed memory management issue - v1.1.7
