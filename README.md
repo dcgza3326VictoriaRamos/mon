@@ -1457,3 +1457,4 @@ Added new feature for better user experience - build 993
 Fixed code formatting issues
 Updated project documentation - 497
 Code cleanup and formatting - build 382
+Fixed code formatting issues - v8.9.4
