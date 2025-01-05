@@ -1396,3 +1396,4 @@ Added comprehensive test coverage
 Fixed typo in documentation - build 108
 Added detailed comments for clarity
 Updated styling and themes
+Updated README with new instructions - build 436
