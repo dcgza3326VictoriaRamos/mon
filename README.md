@@ -228,3 +228,4 @@ Code cleanup and formatting - v7.8.4
 Refactored code for better maintainability - 99
 Added proper error handling - 358
 Improved user interface design - 556
+Updated README with new instructions
