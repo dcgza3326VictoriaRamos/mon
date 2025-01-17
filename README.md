@@ -231,3 +231,4 @@ Improved user interface design - 556
 Updated README with new instructions
 Updated project documentation
 Fixed typo in documentation - v4.7.8
+Added detailed comments for clarity - 49
