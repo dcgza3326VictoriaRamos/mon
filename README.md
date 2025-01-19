@@ -1259,3 +1259,4 @@ Improved performance optimization - 434
 Fixed memory management issue - v3.6.7
 Updated version number
 Fixed typo in documentation - build 635
+Updated README with new instructions
