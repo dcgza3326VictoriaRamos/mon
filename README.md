@@ -1266,3 +1266,4 @@ Improved performance optimization - v3.9.9
 Fixed code formatting issues
 Updated styling and themes - 203
 Improved performance optimization - build 234
+Fixed memory management issue - 403
