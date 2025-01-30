@@ -2902,3 +2902,4 @@ Added detailed comments for clarity - build 130
 Added detailed comments for clarity
 Fixed typo in documentation - v4.0.8
 Fixed memory management issue - v9.9.6
+Updated dependencies to latest versions - update 44
