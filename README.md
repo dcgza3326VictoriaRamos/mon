@@ -2905,3 +2905,4 @@ Fixed memory management issue - v9.9.6
 Updated dependencies to latest versions - update 44
 Updated configuration settings - 910
 Fixed critical bug in main module
+Fixed memory management issue - v7.2.5
