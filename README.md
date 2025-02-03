@@ -3198,3 +3198,4 @@ Added input validation - v3.9.5
 Updated styling and themes
 Fixed critical bug in main module
 Fixed typo in documentation - v3.8.7
+Added new feature for better user experience - 484
