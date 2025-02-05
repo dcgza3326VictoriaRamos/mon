@@ -3722,3 +3722,4 @@ Added detailed comments for clarity - update 39
 Updated configuration settings - update 25
 Improved performance optimization - v9.9.2
 Fixed code formatting issues - v7.5.0
+Updated README with new instructions
