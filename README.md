@@ -1081,3 +1081,4 @@ Refactored code for better maintainability - update 27
 Updated dependencies to latest versions - build 449
 Updated project documentation - build 143
 Updated styling and themes - v7.1.3
+Updated configuration settings - v4.4.6
