@@ -1084,3 +1084,4 @@ Updated styling and themes - v7.1.3
 Updated configuration settings - v4.4.6
 Updated styling and themes - update 13
 Improved user interface design
+Fixed typo in documentation - update 32
