@@ -622,3 +622,4 @@ Updated configuration settings - build 971
 Updated version number
 Updated configuration settings - build 551
 Updated configuration settings - v7.0.8
+Fixed typo in documentation - 891
