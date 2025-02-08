@@ -621,3 +621,4 @@ Code cleanup and formatting
 Updated configuration settings - build 971
 Updated version number
 Updated configuration settings - build 551
+Updated configuration settings - v7.0.8
