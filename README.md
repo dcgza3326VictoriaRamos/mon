@@ -3182,3 +3182,4 @@ Updated project documentation - 921
 Fixed typo in documentation - update 21
 Updated configuration settings
 Added input validation - 880
+Updated configuration settings - v7.2.0
