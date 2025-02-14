@@ -2659,3 +2659,4 @@ Added proper error handling
 Updated configuration settings
 Code cleanup and formatting
 Fixed critical bug in main module - 85
+Fixed typo in documentation - v5.8.0
