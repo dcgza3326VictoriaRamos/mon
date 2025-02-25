@@ -3005,3 +3005,4 @@ Updated dependencies to latest versions - build 491
 Fixed code formatting issues - update 30
 Updated version number
 Updated project documentation - build 875
+Fixed typo in documentation
