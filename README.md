@@ -3006,3 +3006,4 @@ Fixed code formatting issues - update 30
 Updated version number
 Updated project documentation - build 875
 Fixed typo in documentation
+Added proper error handling - build 730
