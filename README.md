@@ -105,3 +105,4 @@ Fixed typo in documentation - v6.0.6
 Fixed typo in documentation - v7.3.9
 Code cleanup and formatting - build 865
 Updated styling and themes - update 41
+Updated project documentation
