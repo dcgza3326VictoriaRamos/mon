@@ -102,3 +102,4 @@ Improved user interface design - 556
 Fixed typo in documentation - v9.4.7
 Fixed code formatting issues - build 707
 Fixed typo in documentation - v6.0.6
+Fixed typo in documentation - v7.3.9
