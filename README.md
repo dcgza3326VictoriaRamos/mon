@@ -99,3 +99,4 @@ Fixed memory management issue - update 18
 Added proper error handling - 4
 Improved user interface design
 Improved user interface design - 556
+Fixed typo in documentation - v9.4.7
