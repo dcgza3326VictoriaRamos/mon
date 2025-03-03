@@ -2209,3 +2209,4 @@ Fixed code formatting issues - 589
 Fixed memory management issue - update 37
 Fixed critical bug in main module - v10.8.0
 Fixed critical bug in main module - update 18
+Fixed critical bug in main module - v7.3.9
