@@ -1089,3 +1089,4 @@ Updated README with new instructions
 Code cleanup and formatting - v5.4.8
 Updated project documentation
 Updated dependencies to latest versions - build 602
+Fixed typo in documentation - v2.0.0
