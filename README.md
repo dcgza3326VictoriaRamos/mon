@@ -3761,3 +3761,4 @@ Added detailed comments for clarity - v10.6.7
 Fixed critical bug in main module - 182
 Updated dependencies to latest versions
 Fixed critical bug in main module - v6.6.3
+Fixed typo in documentation - v7.0.1
