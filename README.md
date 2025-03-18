@@ -3278,3 +3278,4 @@ Fixed memory management issue - update 34
 Code cleanup and formatting - build 359
 Optimized algorithm for better efficiency
 Fixed memory management issue - 366
+Added detailed comments for clarity
