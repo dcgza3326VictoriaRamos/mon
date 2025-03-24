@@ -1912,3 +1912,4 @@ Fixed memory management issue - update 43
 Added input validation - v9.8.1
 Fixed code formatting issues
 Fixed code formatting issues - 408
+Updated dependencies to latest versions
