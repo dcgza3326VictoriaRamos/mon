@@ -1913,3 +1913,4 @@ Added input validation - v9.8.1
 Fixed code formatting issues
 Fixed code formatting issues - 408
 Updated dependencies to latest versions
+Added detailed comments for clarity
