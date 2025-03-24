@@ -2760,3 +2760,4 @@ Updated configuration settings - v5.5.8
 Updated configuration settings
 Updated README with new instructions - 74
 Updated README with new instructions - update 38
+Updated README with new instructions - 257
