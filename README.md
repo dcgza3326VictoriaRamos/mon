@@ -333,3 +333,4 @@ Refactored code for better maintainability - 284
 Added comprehensive test coverage - 364
 Updated dependencies to latest versions - 931
 Updated dependencies to latest versions - v3.0.8
+Fixed typo in documentation - v1.9.9
