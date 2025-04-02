@@ -2728,3 +2728,4 @@ Improved user interface design - build 975
 Fixed typo in documentation - update 44
 Updated README with new instructions - update 24
 Updated project documentation - v10.9.3
+Added detailed comments for clarity
