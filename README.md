@@ -2486,3 +2486,4 @@ Updated version number - build 444
 Refactored code for better maintainability - build 773
 Updated dependencies to latest versions - v10.7.3
 Added new feature for better user experience
+Added detailed comments for clarity - update 44
