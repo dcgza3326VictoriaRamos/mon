@@ -605,3 +605,4 @@ Fixed typo in documentation - 248
 Updated dependencies to latest versions - build 869
 Updated version number - v9.0.3
 Updated styling and themes - 615
+Fixed code formatting issues - 804
