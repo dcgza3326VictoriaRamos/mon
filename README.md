@@ -2434,3 +2434,4 @@ Fixed typo in documentation - 550
 Added detailed comments for clarity
 Optimized algorithm for better efficiency - update 16
 Optimized algorithm for better efficiency - 546
+Updated README with new instructions
