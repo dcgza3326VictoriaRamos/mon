@@ -1974,3 +1974,4 @@ Improved user interface design - update 38
 Fixed memory management issue
 Added new feature for better user experience - v5.2.4
 Updated version number
+Updated README with new instructions - update 30
