@@ -1977,3 +1977,4 @@ Updated version number
 Updated README with new instructions - update 30
 Updated styling and themes - 491
 Updated styling and themes - build 740
+Fixed memory management issue - v7.1.2
