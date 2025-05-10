@@ -802,3 +802,4 @@ Fixed memory management issue - build 971
 Updated styling and themes - update 23
 Updated version number - build 179
 Fixed code formatting issues - 216
+Updated project documentation - update 28
