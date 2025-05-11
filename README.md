@@ -3812,3 +3812,4 @@ Refactored code for better maintainability
 Fixed critical bug in main module - 746
 Updated styling and themes
 Improved user interface design
+Added detailed comments for clarity
