@@ -3816,3 +3816,4 @@ Added detailed comments for clarity
 Added input validation - v5.9.2
 Optimized algorithm for better efficiency - 952
 Added input validation - build 685
+Fixed typo in documentation - update 6
