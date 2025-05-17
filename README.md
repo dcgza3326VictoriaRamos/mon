@@ -139,3 +139,4 @@ Updated dependencies to latest versions - v10.3.4
 Fixed critical bug in main module - v7.8.1
 Fixed typo in documentation - 849
 Added input validation - update 12
+Refactored code for better maintainability - v8.1.6
