@@ -2148,3 +2148,4 @@ Added proper error handling - build 899
 Added proper error handling - v8.4.0
 Updated styling and themes - build 885
 Added detailed comments for clarity - update 7
+Updated README with new instructions - v4.3.4
