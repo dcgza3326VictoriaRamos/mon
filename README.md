@@ -736,3 +736,4 @@ Updated version number
 Added new feature for better user experience - 633
 Updated project documentation - update 37
 Updated project documentation - build 393
+Refactored code for better maintainability - update 9
