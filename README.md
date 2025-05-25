@@ -2157,3 +2157,4 @@ Fixed typo in documentation
 Refactored code for better maintainability - update 22
 Updated dependencies to latest versions - build 590
 Updated project documentation
+Updated README with new instructions - 867
