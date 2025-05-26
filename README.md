@@ -557,3 +557,4 @@ Refactored code for better maintainability - 504
 Updated project documentation - update 37
 Updated version number
 Updated styling and themes - v5.3.3
+Added proper error handling
