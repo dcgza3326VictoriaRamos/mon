@@ -553,3 +553,4 @@ Fixed critical bug in main module
 Code cleanup and formatting - update 45
 Updated dependencies to latest versions - 194
 Updated version number - v6.9.8
+Refactored code for better maintainability - 504
