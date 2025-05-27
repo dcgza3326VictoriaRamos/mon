@@ -3526,3 +3526,4 @@ Added new feature for better user experience
 Code cleanup and formatting - update 36
 Updated README with new instructions - 323
 Updated README with new instructions - update 21
+Fixed memory management issue - update 50
