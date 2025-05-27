@@ -3524,3 +3524,4 @@ Updated dependencies to latest versions - build 975
 Updated README with new instructions - build 809
 Added new feature for better user experience
 Code cleanup and formatting - update 36
+Updated README with new instructions - 323
