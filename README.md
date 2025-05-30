@@ -562,3 +562,4 @@ Refactored code for better maintainability
 Updated README with new instructions - 821
 Refactored code for better maintainability - update 38
 Added new feature for better user experience - build 969
+Added detailed comments for clarity - v5.6.2
