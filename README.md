@@ -415,3 +415,4 @@ Updated project documentation - v6.6.9
 Updated configuration settings - 149
 Updated project documentation - v6.4.5
 Optimized algorithm for better efficiency - update 9
+Updated README with new instructions - 406
