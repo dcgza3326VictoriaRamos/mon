@@ -2333,3 +2333,4 @@ Improved user interface design - build 309
 Updated styling and themes - 824
 Fixed code formatting issues - v6.2.0
 Improved performance optimization - build 104
+Updated README with new instructions - build 424
