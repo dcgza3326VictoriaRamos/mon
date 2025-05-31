@@ -988,3 +988,4 @@ Optimized algorithm for better efficiency - v8.1.0
 Improved user interface design - update 21
 Fixed memory management issue - build 542
 Refactored code for better maintainability - 182
+Added detailed comments for clarity - v9.4.3
