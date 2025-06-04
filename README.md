@@ -947,3 +947,4 @@ Updated project documentation - v1.6.4
 Updated project documentation - v8.5.1
 Updated dependencies to latest versions - update 4
 Refactored code for better maintainability - build 338
+Fixed code formatting issues - v1.5.7
