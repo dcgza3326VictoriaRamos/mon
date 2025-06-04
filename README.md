@@ -944,3 +944,4 @@ Updated styling and themes
 Updated dependencies to latest versions
 Updated project documentation - 139
 Updated project documentation - v1.6.4
+Updated project documentation - v8.5.1
