@@ -943,3 +943,4 @@ Added proper error handling - build 260
 Updated styling and themes
 Updated dependencies to latest versions
 Updated project documentation - 139
+Updated project documentation - v1.6.4
