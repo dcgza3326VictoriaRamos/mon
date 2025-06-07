@@ -1055,3 +1055,4 @@ Updated README with new instructions - v5.9.1
 Updated version number - 23
 Added proper error handling - build 273
 Updated version number - build 409
+Fixed critical bug in main module - 555
