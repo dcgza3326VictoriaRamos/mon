@@ -510,3 +510,4 @@ Code cleanup and formatting - update 18
 Fixed typo in documentation - v1.0.9
 Updated styling and themes
 Improved user interface design
+Added detailed comments for clarity - update 36
