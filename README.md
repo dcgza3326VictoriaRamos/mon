@@ -1051,3 +1051,4 @@ Improved performance optimization - v2.1.8
 Added input validation - v1.3.8
 Fixed critical bug in main module
 Updated dependencies to latest versions - build 723
+Updated README with new instructions - v5.9.1
