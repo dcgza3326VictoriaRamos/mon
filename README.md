@@ -3498,3 +3498,4 @@ Fixed memory management issue - v6.3.1
 Updated configuration settings
 Code cleanup and formatting - 165
 Fixed memory management issue - update 49
+Updated README with new instructions - v6.0.3
