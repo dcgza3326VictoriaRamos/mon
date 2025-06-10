@@ -3506,3 +3506,4 @@ Updated dependencies to latest versions - build 734
 Added proper error handling - 987
 Fixed memory management issue - v6.9.4
 Fixed typo in documentation - v1.3.4
+Fixed critical bug in main module - v8.8.0
