@@ -3505,3 +3505,4 @@ Updated styling and themes - v5.9.3
 Updated dependencies to latest versions - build 734
 Added proper error handling - 987
 Fixed memory management issue - v6.9.4
+Fixed typo in documentation - v1.3.4
