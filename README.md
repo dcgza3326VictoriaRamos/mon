@@ -3500,3 +3500,4 @@ Code cleanup and formatting - 165
 Fixed memory management issue - update 49
 Updated README with new instructions - v6.0.3
 Updated version number
+Added detailed comments for clarity - v5.6.5
