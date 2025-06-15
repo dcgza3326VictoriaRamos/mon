@@ -1302,3 +1302,4 @@ Fixed memory management issue - 173
 Code cleanup and formatting - build 424
 Added proper error handling
 Code cleanup and formatting
+Updated README with new instructions - 675
