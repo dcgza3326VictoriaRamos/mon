@@ -1305,3 +1305,4 @@ Code cleanup and formatting
 Updated README with new instructions - 675
 Updated configuration settings - 359
 Fixed code formatting issues - 77
+Added input validation - v9.4.7
