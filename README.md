@@ -499,3 +499,4 @@ Updated configuration settings - build 634
 Updated dependencies to latest versions - 376
 Fixed code formatting issues - build 626
 Updated project documentation - v5.1.1
+Fixed memory management issue - v8.9.0
