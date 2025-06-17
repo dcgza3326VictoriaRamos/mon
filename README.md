@@ -506,3 +506,4 @@ Added detailed comments for clarity - build 294
 Improved user interface design - v9.6.4
 Fixed code formatting issues
 Added detailed comments for clarity - build 222
+Code cleanup and formatting - update 18
