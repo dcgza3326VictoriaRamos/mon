@@ -440,3 +440,4 @@ Fixed memory management issue - build 199
 Updated version number - update 38
 Updated project documentation - build 833
 Added comprehensive test coverage
+Added new feature for better user experience - v2.0.1
