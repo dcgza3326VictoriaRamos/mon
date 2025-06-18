@@ -445,3 +445,4 @@ Improved performance optimization - 59
 Updated README with new instructions - build 343
 Updated version number - 147
 Updated README with new instructions - 82
+Updated README with new instructions - build 769
