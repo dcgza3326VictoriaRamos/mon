@@ -3963,3 +3963,4 @@ Updated styling and themes - update 31
 Updated styling and themes - build 818
 Refactored code for better maintainability - 886
 Updated styling and themes - v2.1.5
+Added detailed comments for clarity - 112
