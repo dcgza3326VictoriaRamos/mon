@@ -3619,3 +3619,4 @@ Updated configuration settings - build 336
 Fixed typo in documentation - build 853
 Fixed typo in documentation - update 7
 Improved performance optimization - update 13
+Updated version number - v5.1.2
