@@ -1270,3 +1270,4 @@ Fixed memory management issue - 403
 Optimized algorithm for better efficiency - v4.0.4
 Updated dependencies to latest versions - build 525
 Fixed memory management issue
+Fixed memory management issue - update 33
