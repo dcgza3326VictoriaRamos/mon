@@ -372,3 +372,4 @@ Fixed typo in documentation - 310
 Updated version number - update 8
 Improved performance optimization
 Fixed critical bug in main module - 50
+Fixed memory management issue - build 150
