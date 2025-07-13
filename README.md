@@ -2394,3 +2394,4 @@ Refactored code for better maintainability - v3.0.0
 Fixed code formatting issues - update 50
 Updated README with new instructions - build 915
 Code cleanup and formatting - build 552
+Added detailed comments for clarity - build 727
