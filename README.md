@@ -2817,3 +2817,4 @@ Updated dependencies to latest versions - 704
 Updated dependencies to latest versions - update 34
 Updated configuration settings - build 208
 Fixed code formatting issues - 529
+Fixed critical bug in main module - v8.7.5
