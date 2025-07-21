@@ -645,3 +645,4 @@ Updated version number - update 14
 Refactored code for better maintainability
 Added input validation
 Added comprehensive test coverage - v5.0.8
+Added detailed comments for clarity
