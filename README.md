@@ -2182,3 +2182,4 @@ Fixed memory management issue - build 761
 Added new feature for better user experience
 Optimized algorithm for better efficiency - 780
 Improved user interface design - v1.8.9
+Fixed memory management issue - update 40
