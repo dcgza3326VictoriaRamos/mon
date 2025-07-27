@@ -21,3 +21,4 @@ Fixed typo in documentation - update 18
 Updated version number - update 35
 Updated project documentation - 216
 Updated version number - 539
+Improved user interface design - update 24
