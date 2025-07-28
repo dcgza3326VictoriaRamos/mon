@@ -3538,3 +3538,4 @@ Refactored code for better maintainability - build 130
 Fixed memory management issue - update 34
 Updated project documentation - build 438
 Added detailed comments for clarity
+Updated README with new instructions
