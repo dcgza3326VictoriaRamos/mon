@@ -1869,3 +1869,4 @@ Updated README with new instructions - update 13
 Updated configuration settings - build 327
 Fixed critical bug in main module - update 21
 Fixed critical bug in main module - v4.5.7
+Fixed memory management issue - update 15
