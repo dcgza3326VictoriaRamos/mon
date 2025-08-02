@@ -1873,3 +1873,4 @@ Fixed memory management issue - update 15
 Fixed critical bug in main module - update 16
 Updated configuration settings - update 30
 Fixed code formatting issues - update 23
+Fixed typo in documentation - v4.0.1
