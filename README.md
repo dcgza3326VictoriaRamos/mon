@@ -3970,3 +3970,4 @@ Fixed critical bug in main module - 500
 Refactored code for better maintainability - update 46
 Updated README with new instructions - 662
 Added detailed comments for clarity - v5.7.8
+Updated README with new instructions
