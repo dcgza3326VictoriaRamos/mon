@@ -1028,3 +1028,4 @@ Fixed critical bug in main module - update 40
 Improved user interface design - v7.5.6
 Improved user interface design - v7.2.8
 Code cleanup and formatting
+Updated README with new instructions
