@@ -2311,3 +2311,4 @@ Updated dependencies to latest versions
 Added comprehensive test coverage - v2.6.7
 Fixed typo in documentation
 Added input validation - v6.5.7
+Updated styling and themes - 975
