@@ -2601,3 +2601,4 @@ Improved performance optimization - update 2
 Added detailed comments for clarity - v9.9.2
 Added input validation
 Updated dependencies to latest versions - 844
+Updated README with new instructions - v1.5.5
