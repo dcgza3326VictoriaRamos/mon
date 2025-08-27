@@ -2604,3 +2604,4 @@ Updated dependencies to latest versions - 844
 Updated README with new instructions - v1.5.5
 Improved user interface design - update 36
 Updated configuration settings - build 344
+Added input validation - v5.9.8
