@@ -2856,3 +2856,4 @@ Fixed typo in documentation - build 817
 Updated configuration settings - build 704
 Fixed typo in documentation
 Added input validation - v8.8.8
+Fixed memory management issue
