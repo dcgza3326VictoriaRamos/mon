@@ -2855,3 +2855,4 @@ Optimized algorithm for better efficiency - v4.7.7
 Fixed typo in documentation - build 817
 Updated configuration settings - build 704
 Fixed typo in documentation
+Added input validation - v8.8.8
