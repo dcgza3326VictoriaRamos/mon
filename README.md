@@ -1849,3 +1849,4 @@ Updated configuration settings
 Updated version number
 Refactored code for better maintainability - 344
 Code cleanup and formatting - build 496
+Updated configuration settings - v9.8.9
