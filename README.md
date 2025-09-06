@@ -3549,3 +3549,4 @@ Added new feature for better user experience - 764
 Fixed memory management issue
 Fixed typo in documentation - build 374
 Updated styling and themes - update 37
+Fixed code formatting issues - update 12
