@@ -2578,3 +2578,4 @@ Updated version number
 Updated version number - 149
 Fixed critical bug in main module - build 519
 Refactored code for better maintainability - 921
+Added proper error handling - v8.4.2
