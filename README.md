@@ -1570,3 +1570,4 @@ Updated configuration settings - v1.7.1
 Fixed memory management issue - build 338
 Fixed code formatting issues - update 8
 Updated project documentation - update 49
+Refactored code for better maintainability - v1.4.4
