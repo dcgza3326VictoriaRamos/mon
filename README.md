@@ -3133,3 +3133,4 @@ Added new feature for better user experience
 Added input validation
 Updated README with new instructions - build 967
 Updated styling and themes - 361
+Added new feature for better user experience - v4.4.9
