@@ -747,3 +747,4 @@ Added new feature for better user experience - v9.4.3
 Fixed memory management issue
 Updated version number - update 20
 Updated README with new instructions - build 943
+Updated README with new instructions - 794
