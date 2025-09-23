@@ -739,3 +739,4 @@ Updated project documentation - build 393
 Refactored code for better maintainability - update 9
 Refactored code for better maintainability - update 29
 Improved user interface design
+Added proper error handling
