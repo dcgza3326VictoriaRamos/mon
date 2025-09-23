@@ -745,3 +745,4 @@ Added new feature for better user experience - v10.5.0
 Updated README with new instructions - build 381
 Added new feature for better user experience - v9.4.3
 Fixed memory management issue
+Updated version number - update 20
