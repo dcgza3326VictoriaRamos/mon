@@ -3902,3 +3902,4 @@ Updated styling and themes
 Fixed code formatting issues
 Updated project documentation - update 3
 Refactored code for better maintainability - update 46
+Updated README with new instructions - update 27
