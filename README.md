@@ -3906,3 +3906,4 @@ Updated README with new instructions - update 27
 Added comprehensive test coverage - update 40
 Refactored code for better maintainability - v10.0.8
 Updated dependencies to latest versions - build 315
+Added detailed comments for clarity - update 38
